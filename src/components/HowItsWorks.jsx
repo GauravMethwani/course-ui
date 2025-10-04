@@ -24,6 +24,7 @@ const steps = [
   }
 ];
 
+
 export default function HowItsWorks() {
   return (
     <div className="min-h-screen bg-white">
